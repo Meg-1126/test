@@ -1,29 +1,17 @@
-## Hi there:D
+## General info
 - Name: Megumi Akama
 - From: Japan
-- Major at Uni: Economics, Regional design
-- Former career: University admin (Student Exchange Coordinator)
+- Personality: Optimist, Calm
+- Major at Uni: Economics, Community studies
+- Former career: University admin (Study abroad program coordinator)
+- Programming experience: A few months self study (HTML/CSS/JavaScript/C#)
+- Reason to choose the course: To gain new skills that enable me to work in a foreign country
+- Hobbies: Drawing, Wine tasting, Playing video game
+- Social: [Instagram](https://www.instagram.com/hige_sugar9/?hl=ja)
 
-### Markdown
+## Message
+Hi there! I am looking forward to collaborating with you all;)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 

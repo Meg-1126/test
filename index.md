@@ -11,7 +11,7 @@
 
 ## Message
 Hi there! I am looking forward to collaborating with you all;)
-[It's me!](https://meg-1126.github.io/test/profile.JPG)
+![It's me!](https://meg-1126.github.io/test/profile.JPG)
 
 
 
